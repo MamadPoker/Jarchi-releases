@@ -15,6 +15,10 @@ Jarchi isn't code-signed yet, so the first time you run the installer, Windows S
 1. Click **More info**.
 2. Click **Run anyway**.
 
+## Privacy
+
+What Jarchi sends and why: [Privacy Policy](PRIVACY.md).
+
 ---
 
 <div dir="rtl">
@@ -35,5 +39,9 @@ Jarchi هنوز امضای دیجیتال (code signing) ندارد، برای �
 
 1. روی **More info** کلیک کنید.
 2. روی **Run anyway** کلیک کنید.
+
+### حریم خصوصی
+
+Jarchi چه اطلاعاتی می‌فرستد و چرا: [سیاست حریم خصوصی](PRIVACY.md#%D8%B3%DB%8C%D8%A7%D8%B3%D8%AA-%D8%AD%D8%B1%DB%8C%D9%85-%D8%AE%D8%B5%D9%88%D8%B5%DB%8C-%D8%AC%D8%A7%D8%B1%DA%86%DB%8C).
 
 </div>
