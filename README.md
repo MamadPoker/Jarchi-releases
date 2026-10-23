@@ -4,7 +4,7 @@
 
 ## Download
 
-**[⬇ Download the latest Jarchi for Windows](https://github.com/MamadPoker/Jarchi-releases/releases/latest)**: on that page, under **Assets**, click **Jarchi-Setup-….exe** and run it.
+**[⬇ Download the latest Jarchi for Windows](https://github.com/MamadPoker/Jarchi-releases/releases/latest/download/Jarchi-Setup.exe)**, then run the downloaded **Jarchi-Setup.exe**.
 
 For Windows 10 and 11 (64-bit). Jarchi keeps itself up to date: a new version downloads in the background and is installed when you click **Restart now**. Your settings, uploads and logins are kept.
 
@@ -29,7 +29,7 @@ What Jarchi sends and why: [Privacy Policy](PRIVACY.md).
 
 ### دانلود
 
-**[⬇ دانلود آخرین نسخهٔ Jarchi برای ویندوز](https://github.com/MamadPoker/Jarchi-releases/releases/latest)**: در آن صفحه، زیر **Assets**، روی **Jarchi-Setup-….exe** کلیک کنید و اجرایش کنید.
+**[⬇ دانلود آخرین نسخهٔ Jarchi برای ویندوز](https://github.com/MamadPoker/Jarchi-releases/releases/latest/download/Jarchi-Setup.exe)**، سپس فایل دانلودشدهٔ **Jarchi-Setup.exe** را اجرا کنید.
 
 برای ویندوز ۱۰ و ۱۱ (۶۴ بیتی). Jarchi خودش به‌روز می‌ماند: نسخهٔ تازه در پس‌زمینه دانلود می‌شود و وقتی روی **همین حالا ری‌استارت** کلیک کنید نصب می‌شود. تنظیمات، فایل‌های آپلودشده و حساب‌های وصل‌شدهٔ شما سر جایشان می‌مانند.
 
